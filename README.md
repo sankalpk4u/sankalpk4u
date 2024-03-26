@@ -10,13 +10,41 @@
   - Coursework: Programming Fundamentals, Database Management Systems, Object-Oriented Programming, Computer Networking, Data Structures & Algorithms, Cloud Computing, Machine Learning
 
 ## Skills
-- **Languages:** Python, C++, HTML, CSS
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-- **Databases:** SQL, MySQL, SQLite, MongoDB
-- **Machine Learning Algorithms:** Linear Regression, Logistic Regression, Decision Trees, Random Forest, Support Vector Machines (SVM)
-- **Data Analytics & Visualization:** MS Excel, Power Bi
-- **AWS Cloud Technologies:** AWS Lambda, Amazon EC2, Amazon S3
-- **Tools:** Git, Jira, VS Code, Jupyter Notebook
+- **Languages:** 
+  - ![Python](https://img.icons8.com/color/48/000000/python.png) Python 
+  - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++ 
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML 
+  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+- **Libraries & Frameworks:** 
+  - ![NumPy](https://numpy.org/images/logos/numpy.svg) NumPy 
+  - ![Pandas](https://pandas.pydata.org/static/img/pandas.svg) Pandas 
+  - ![Matplotlib](https://matplotlib.org/_static/logo2_compressed.svg) Matplotlib 
+  - ![Seaborn](https://seaborn.pydata.org/_static/logo-wide-lightbg.svg) Seaborn 
+  - ![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) Scikit-Learn 
+  - ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png) TensorFlow
+- **Databases:** 
+  - ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png) SQL 
+  - ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL 
+  - ![SQLite](https://www.sqlite.org/images/sqlite370_banner.gif) SQLite 
+  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+- **Machine Learning Algorithms:** 
+  - ![Linear Regression](https://img.icons8.com/ios-filled/50/000000/sigma.png) Linear Regression 
+  - ![Logistic Regression](https://img.icons8.com/ios-filled/50/000000/sigma.png) Logistic Regression 
+  - ![Decision Trees](https://img.icons8.com/ios-filled/50/000000/decision-tree.png) Decision Trees 
+  - ![Random Forest](https://img.icons8.com/ios-filled/50/000000/decision-tree.png) Random Forest 
+  - ![SVM](https://img.icons8.com/ios-filled/50/000000/decision-tree.png) Support Vector Machines (SVM)
+- **Data Analytics & Visualization:** 
+  - ![MS Excel](https://img.icons8.com/color/48/000000/ms-excel.png) MS Excel 
+  - ![Power Bi](https://img.icons8.com/color/48/000000/power-bi.png) Power Bi
+- **AWS Cloud Technologies:** 
+  - ![AWS Lambda](https://img.icons8.com/color/48/000000/amazon-web-services.png) AWS Lambda 
+  - ![Amazon EC2](https://img.icons8.com/color/48/000000/amazon-ec2.png) Amazon EC2 
+  - ![Amazon S3](https://img.icons8.com/color/48/000000/amazon-s3.png) Amazon S3
+- **Tools:** 
+  - ![Git](https://img.icons8.com/color/48/000000/git.png) Git 
+  - ![Jira](https://img.icons8.com/color/48/000000/jira.png) Jira 
+  - ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) VS Code 
+  - ![Jupyter Notebook](https://img.icons8.com/officel/16/000000/jupyter.png) Jupyter Notebook
 
 ## Projects
 - **Retail Sales Analysis** (April 2023)
@@ -29,28 +57,13 @@
   - Interfaced with a stock price data feed, created tests using Python, and visualized data for traders using Tableau.
 
 ## Achievements & Certifications
-- 3rd Position Technokrats’23 Coding Competition - Sharda University
-- Introduction To Data Science in Python - Coursera
-- Introduction To Data Analysis Using Microsoft Excel - Coursera
-- Crash Course on Python by Google - Coursera
-- C For Everyone: Programming Fundamentals - Coursera
-- HTML, CSS & JavaScript for Web Developers - Coursera
+- 🏆 3rd Position Technokrats’23 Coding Competition - Sharda University
+- 📜 Introduction To Data Science in Python - Coursera
+- 📜 Introduction To Data Analysis Using Microsoft Excel - Coursera
+- 📜 Crash Course on Python by Google - Coursera
+- 📜 C For Everyone: Programming Fundamentals - Coursera
+- 📜 HTML, CSS & JavaScript for Web Developers - Coursera
 
 ## Extra Co-Curricular & Position of Responsibility
 - **Student Coordinator for Sharda University Music Club**
   - Organized and participated in multiple music events on and off-campus, won various prizes in music competitions.
-
-<!--
-**sankalpk4u/sankalpk4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
